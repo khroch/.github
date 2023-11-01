@@ -4,6 +4,8 @@
 
 - Wind Website
   - Main: <https://khroc.com>
+  - Shop: <https://khroc.com/shop>
+  - Admin: <https://khroc.com/admin>
 - Khoroc Apps
   - Customer app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=customer.khroc.com>
   - Shop app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=shop.khroc.com>
