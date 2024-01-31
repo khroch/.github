@@ -18,4 +18,4 @@
 
 ## Contact
 
-- email: <info@khroc.com>, <info.khroch@gmail.com> and <khroch.com@gmail.com>
+- email: <info@khroch.com>, <info.khroch@gmail.com>
