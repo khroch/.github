@@ -1,4 +1,4 @@
-## Hi there 👋, we are working on our app named [Khroc](https://khroc.com)
+## Hi there 👋, we are working on our app named [Khroch](https://khroch.com)
 
 ## URLs
 
