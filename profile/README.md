@@ -7,8 +7,8 @@
   - Shop: <https://khroch.com/shop>
   - Admin: <https://khroch.com/admin>
 - Khoroc Apps
-  - Customer app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=customer.khroch.com>
-  - Shop app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=shop.khroch.com>
+  - Customer app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=com.khroch.customer>
+  - Shop app (Google Playstore - coming soon): <https://play.google.com/store/apps/details?id=com.khroch.shop>
 
 ## Metrics
 
